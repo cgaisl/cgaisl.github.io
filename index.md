@@ -1,2 +1,2 @@
-# BasicallyWhatsApp
-A simple version of WhatsApp
+# My personal page
+A simple test version
