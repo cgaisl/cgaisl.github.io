@@ -2,122 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a computer scientist specializing in applied cryptography and Android development. 
 
-[Link to another page](./another-page.html).
+I recently graduated from [Graz University of Technology](https://tugraz.at), where I finished my master thesis on a privacy-friendly payment scheme in cooperation with Infineon Technologies.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+My expertise lies in elliptic curve cryptography, applied cryptography, and Android development.
 
 * * *
 
-### Here is an unordered list:
+# Theses
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Master Thesis - "Privacy-friendly Payment Scheme from Group Signatures" -  [PDF](master_thesis.pdf)
 
-### And an ordered list:
+I implemented a group signature scheme based on elliptic curve cryptography in Java. Using this group signature implementation, I created a privacy-friendly payment scheme.  It consists of two Android apps and a backend, emulating similar functionality as other existing NFC-based payment schemes.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## Bachelor Thesis - "Cache.pdf: Cache Covert Channels using JavaScript" - [PDF](bachelor_thesis.pdf)
 
-### And a nested list:
+I created a covert channel from a PDF file to a website by embedding JavaScript inside a PDF and measuring CPU cache latency from a script running inside a web browser. This thesis was supervised by [Moritz Lipp](https://mlq.me/).
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+* * *
 
-### Small image
+# Awards
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## WKO Forschungsstipendium
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Award for master theses with high relevancy to local industry
