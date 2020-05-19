@@ -2,11 +2,9 @@
 layout: default
 ---
 
-I am a computer scientist specializing in applied cryptography and Android development. 
+I am a computer scientist specializing in applied cryptography, elliptic curve cryptography, and Android development. 
 
 I recently graduated from [Graz University of Technology](https://tugraz.at), where I finished my master thesis on a privacy-friendly payment scheme in cooperation with Infineon Technologies.
-
-My expertise lies in elliptic curve cryptography, applied cryptography, and Android development.
 
 * * *
 
