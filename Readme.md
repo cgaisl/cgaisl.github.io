@@ -1,3 +1,3 @@
 # Accessable Links
 
-1. [Copyable](https://cgaisl.github.io/kodeeLogin)
+1. [KodeeLogin](https://cgaisl.github.io/kodeeLogin)
