@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <title>KodeeLogin with Kotlin/Wasm</title>
-    <script type="application/javascript" src="skiko.js"></script>
     <script type="application/javascript" src="kodeeLogin.js"></script>
     <style>
         html, body {
@@ -39,7 +38,7 @@
     </style>
 </head>
 <body>
-<canvas id="kodeeLoginCanvas"></canvas>
+<div id="kodeeLoginCanvas" style="width: 100%; height: 100%;"></div>
 
 <div id="warning">
     ⚠️ Please make sure that your runtime environment supports the latest version of Wasm GC and Exception-Handling proposals.
